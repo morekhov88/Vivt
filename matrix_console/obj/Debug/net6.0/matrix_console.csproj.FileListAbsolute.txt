@@ -1,0 +1,15 @@
+/home/bug/git_projects/Vivt/matrix_console/bin/Debug/net6.0/matrix_console
+/home/bug/git_projects/Vivt/matrix_console/bin/Debug/net6.0/matrix_console.deps.json
+/home/bug/git_projects/Vivt/matrix_console/bin/Debug/net6.0/matrix_console.runtimeconfig.json
+/home/bug/git_projects/Vivt/matrix_console/bin/Debug/net6.0/matrix_console.dll
+/home/bug/git_projects/Vivt/matrix_console/bin/Debug/net6.0/matrix_console.pdb
+/home/bug/git_projects/Vivt/matrix_console/obj/Debug/net6.0/matrix_console.csproj.AssemblyReference.cache
+/home/bug/git_projects/Vivt/matrix_console/obj/Debug/net6.0/matrix_console.GeneratedMSBuildEditorConfig.editorconfig
+/home/bug/git_projects/Vivt/matrix_console/obj/Debug/net6.0/matrix_console.AssemblyInfoInputs.cache
+/home/bug/git_projects/Vivt/matrix_console/obj/Debug/net6.0/matrix_console.AssemblyInfo.cs
+/home/bug/git_projects/Vivt/matrix_console/obj/Debug/net6.0/matrix_console.csproj.CoreCompileInputs.cache
+/home/bug/git_projects/Vivt/matrix_console/obj/Debug/net6.0/matrix_console.dll
+/home/bug/git_projects/Vivt/matrix_console/obj/Debug/net6.0/refint/matrix_console.dll
+/home/bug/git_projects/Vivt/matrix_console/obj/Debug/net6.0/matrix_console.pdb
+/home/bug/git_projects/Vivt/matrix_console/obj/Debug/net6.0/matrix_console.genruntimeconfig.cache
+/home/bug/git_projects/Vivt/matrix_console/obj/Debug/net6.0/ref/matrix_console.dll
