@@ -1,0 +1,15 @@
+/home/bug/git_projects/Vivt/dots/bin/Debug/net6.0/dots
+/home/bug/git_projects/Vivt/dots/bin/Debug/net6.0/dots.deps.json
+/home/bug/git_projects/Vivt/dots/bin/Debug/net6.0/dots.runtimeconfig.json
+/home/bug/git_projects/Vivt/dots/bin/Debug/net6.0/dots.dll
+/home/bug/git_projects/Vivt/dots/bin/Debug/net6.0/dots.pdb
+/home/bug/git_projects/Vivt/dots/obj/Debug/net6.0/dots.csproj.AssemblyReference.cache
+/home/bug/git_projects/Vivt/dots/obj/Debug/net6.0/dots.GeneratedMSBuildEditorConfig.editorconfig
+/home/bug/git_projects/Vivt/dots/obj/Debug/net6.0/dots.AssemblyInfoInputs.cache
+/home/bug/git_projects/Vivt/dots/obj/Debug/net6.0/dots.AssemblyInfo.cs
+/home/bug/git_projects/Vivt/dots/obj/Debug/net6.0/dots.csproj.CoreCompileInputs.cache
+/home/bug/git_projects/Vivt/dots/obj/Debug/net6.0/dots.dll
+/home/bug/git_projects/Vivt/dots/obj/Debug/net6.0/refint/dots.dll
+/home/bug/git_projects/Vivt/dots/obj/Debug/net6.0/dots.pdb
+/home/bug/git_projects/Vivt/dots/obj/Debug/net6.0/dots.genruntimeconfig.cache
+/home/bug/git_projects/Vivt/dots/obj/Debug/net6.0/ref/dots.dll
